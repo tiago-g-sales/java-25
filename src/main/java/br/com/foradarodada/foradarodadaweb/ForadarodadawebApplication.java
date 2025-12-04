@@ -9,6 +9,4 @@ public class ForadarodadawebApplication {
 		SpringApplication.run(ForadarodadawebApplication.class, args);
 	}
 
-
-
 }
